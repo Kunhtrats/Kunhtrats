@@ -20,3 +20,5 @@ I’m constantly looking for new challenges to apply my problem-solving skills a
 ## 🌍 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/mialarconr/)
 - [Portfolio](https://candidato.ejecutivolatino.com/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunhtrats&show_icons=true&theme=synthwave)
