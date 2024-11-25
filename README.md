@@ -15,6 +15,6 @@ I’m constantly looking for new challenges to apply my problem-solving skills a
 
 ## 🌍 Let's Connect!
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mialarconr/)
-[![My Skills](https://skillicons.dev/icons?i=github)](kunhtrats.github.io)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://kunhtrats.github.io/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunhtrats&layout=compact)
