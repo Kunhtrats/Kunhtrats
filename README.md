@@ -18,7 +18,7 @@ I've had the privilege of working on a range of projects:
 I’m constantly looking for new challenges to apply my problem-solving skills and grow as a developer.
 
 ## 🌍 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/mialarconr/)
-- [Portfolio](https://candidato.ejecutivolatino.com/)
+(https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mialarconr/)
+(https://skillicons.dev/icons?i=github)](kunhtrats.github.io)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunhtrats&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunhtrats&layout=compact)
