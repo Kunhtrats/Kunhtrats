@@ -3,11 +3,7 @@
 I'm a passionate **Full Stack Developer** with over 3 years of experience working on diverse projects, from web development to game programming.
 
 ## 🔧 Technologies & Tools
-- **Languages**: JavaScript, Python, SQL, C++, TypeScript, Java, HTML, CSS
-- **Frameworks**: React, Remix, Angular, Express.js, Prisma
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Power BI, Looker, Docker, Git/GitHub, Plastic SCM, Node.js
-- **Platforms**: Unreal Engine 5.2, Shopify
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,blender,bootstrap,cpp,css,django,fastapi,gcp,git,htmx,java,js,mongodb,mysql,nodejs,powershell,py,react,remix,remix,tailwind,ts,unreal,wordpress)](https://skillicons.dev)
 
 ## 🚀 Experience
 I've had the privilege of working on a range of projects:
