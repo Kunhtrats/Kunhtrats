@@ -2,6 +2,8 @@
 
 I'm a passionate **Full Stack Developer** with over 3 years of experience working on diverse projects, from web development to game programming.
 
+## 🐱 Founder of Lazy Cat Studios
+I’m the Founder & Lead Developer at Lazy Cat Studios, an indie studio I’m forming to launch games with their own identity, where retro design and intense stories blend with modern mechanics. We’re building from the ground up with love, coffee, and lots of code!
 ## 🔧 Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=angular,aws,blender,bootstrap,cpp,css,django,fastapi,gcp,git,htmx,java,js,mongodb,mysql,nodejs,powershell,py,react,remix,tailwind,ts,unreal,wordpress)](https://skillicons.dev)
 
