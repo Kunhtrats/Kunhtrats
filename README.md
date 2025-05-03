@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Miguel Alarcón
 
-I'm a passionate **Full Stack Developer** with over 3 years of experience working on diverse projects, from web development to game programming.
+I'm a passionate developer with over 4 years of experience working on diverse projects, from web development to game programming.
 
 ## 🐱 Founder of Lazy Cat Studios
 I’m the Founder & Lead Developer at Lazy Cat Studios, an indie studio I’m forming to launch games with their own identity, where retro design and intense stories blend with modern mechanics. We’re building from the ground up with love, coffee, and lots of code!
